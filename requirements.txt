@@ -69,5 +69,3 @@ urllib3==2.3.0
 wcwidth==0.2.13
 webencodings==0.5.1
 wheel==0.45.1
-# Editable install with no version control (yolo_project==0.1)
--e c:\users\preeti kumari\onedrive - nsut.ac.in\desktop\web technology\ai2
